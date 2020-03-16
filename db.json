@@ -1,0 +1,42 @@
+[
+   {
+      "Color":"green",
+      "Country":"Canada",
+      "State":"Ontario",
+      "City":"Toronto",
+      "Price":174,
+      "Quantity":22
+   },
+   {
+      "Color":"red",
+      "Country":"USA",
+      "State":"California",
+      "City":"Los Angeles",
+      "Price":166,
+      "Quantity":19
+   },
+   {
+      "Color":"red",
+      "Country":"USA",
+      "State":"California",
+      "City":"Los Angeles",
+      "Price":166,
+      "Quantity":19
+   },
+   {
+      "Color":"red",
+      "Country":"USA",
+      "State":"California",
+      "City":"Los Angeles",
+      "Price":166,
+      "Quantity":19
+   },
+   {
+      "Color":"red",
+      "Country":"USA",
+      "State":"California",
+      "City":"Los Angeles",
+      "Price":166,
+      "Quantity":19
+   }
+]
